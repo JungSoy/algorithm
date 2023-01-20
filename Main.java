@@ -1,16 +1,14 @@
 class Main {
   public static void main(String[] args) {
-    // 삼각형의 면적 구하기
+    int a=3;
+    int b=2;
 
-    // base 4, height 2
-
-    double base = 4;
-    double height = 2;
-
-    double area = base * height / 2;
-
-    System.out.println(area);
-                      
-    
+    if(a > b){
+      System.out.println("a는 b보다 큰 수 입니다.");
+     }else if(a < b){
+      System.out.println("b는 a보다 큰 수 입니다.");
+     }else{
+      System.out.println("a와 b는 동일한 수 입니다.");
+     };
   }
 }
