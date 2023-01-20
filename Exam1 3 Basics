@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T02:13:22.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_x0QmPDMyLfD0pKd7yE1" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T02:14:32.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ukdYB8ywvP5M8veAUsWz" version="20.8.8" type="github">
   <diagram name="페이지-1" id="mYGSCiPXX-CvnKD8pNWd">
     <mxGraphModel dx="1066" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,6 +135,14 @@
         </mxCell>
         <mxCell id="B_yHoBFYXzeBUFMhwO1n-42" value="신라면을 산다" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B_yHoBFYXzeBUFMhwO1n-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_yHoBFYXzeBUFMhwO1n-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="859.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="860" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="B_yHoBFYXzeBUFMhwO1n-43" value="진라면을 산다" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="760" y="800" width="120" height="40" as="geometry" />
